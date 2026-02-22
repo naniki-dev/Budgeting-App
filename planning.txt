@@ -1,0 +1,7 @@
+'''
+- user selects option
+- calls function to ask user for amount and category/label the input
+- calls function to add it to the json
+- print a confirmation that it has been added
+'''
+
