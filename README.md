@@ -24,7 +24,7 @@ All transactions are stored in a JSON file for persistent data storage.
 ## Installation & Usage
 
 ### 1. Clone the repository
-git clone https://github.com/yourusername/budgeting-app.git
+git clone <link>
 
 ### 2. Navigate into the folder
 cd budgeting-app
