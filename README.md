@@ -24,23 +24,13 @@ All transactions are stored in a JSON file for persistent data storage.
 ## Installation & Usage
 
 ### 1. Clone the repository
-git clone <link>
+git clone link
 
 ### 2. Navigate into the folder
 cd budgeting-app
 
 ### 3. Run the program
 python main.py
-
-## Example
-Select an option:
-1. Add Income
-2. Add Expense
-3. View Balance
-
-> 1
-Enter income amount: 1000
-Income added successfully!
 
 ## What I Learned
 - File handling in Python
