@@ -71,6 +71,13 @@ def add_income(amount):
         data_list = []
 
     # Add new data
+    new_data = {}
+    # Check if ID is in list, if not then add new ID else update current one
+    for account in data_list:
+        # If ID is in there then update 
+        pass
+        # create new one
+    new_data.setdefault("ID", 1)
     new_data = {"income": amount}
     data_list.append(new_data)
 
